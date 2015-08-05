@@ -1,5 +1,8 @@
 # c4_TDL
-To Do List
+To Do List<br>
+Collaborated with three other team members. Focused on using AJAX calls in order to add, update, and delete todo items.
+
+http://dnguy.github.io/c4_TDL/
 
 # TODO 0.1 
 - Create dummy static html pages of the following:
